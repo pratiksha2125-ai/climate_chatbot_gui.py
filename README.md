@@ -50,11 +50,6 @@ This project provides a **GUI-based chatbot** that:
 
 ---
 
-## 📸 Screenshots
-(Add screenshots of your chatbot GUI here)
-
----
-
 ## 🚀 How to Run the Project
 1. Install Python (3.8 or above)
 2. Install required libraries:
